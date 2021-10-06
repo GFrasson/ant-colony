@@ -1,0 +1,6 @@
+*.dll
+include/SFML/
+lib/
+bin/
+build/
+main.exe
